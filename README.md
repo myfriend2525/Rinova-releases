@@ -2,6 +2,8 @@
 
 Controla tus suscripciones y pruebas gratis: cuánto pagas al mes, qué está por cobrarse y avisos antes de cada cobro. Tus datos se guardan solo en tu teléfono.
 
+Web: https://myfriend2525.github.io/Rinova-releases/ · [Política de privacidad](https://myfriend2525.github.io/Rinova-releases/privacidad/)
+
 ## Descargar
 
 **[Descargar Rinova.apk](https://github.com/myfriend2525/Rinova-releases/releases/latest/download/Rinova.apk)** (Android, teléfonos actuales)
